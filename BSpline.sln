@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BSpline", "BSpline.vcproj", "{9888F57C-B7B7-462F-8E33-B0EAE2A1DB64}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9888F57C-B7B7-462F-8E33-B0EAE2A1DB64}.Debug.ActiveCfg = Debug|Win32
+		{9888F57C-B7B7-462F-8E33-B0EAE2A1DB64}.Debug.Build.0 = Debug|Win32
+		{9888F57C-B7B7-462F-8E33-B0EAE2A1DB64}.Release.ActiveCfg = Release|Win32
+		{9888F57C-B7B7-462F-8E33-B0EAE2A1DB64}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

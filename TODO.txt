@@ -1,0 +1,20 @@
+TO DO:
+
+Show ISOMETRIC view in view menu
+Add - draw curve from equation
+bug in reset
+rotation around selected axis in guide
+
+MAKE CALCULATIONS EFFICIENT - TO MAKE HANDLING SMOOTH FOR USER
+-Cache all the points on the curve. No need to recalc unless change in ctrl pt, knot or degree
+
+DONE:
+
+Direction guide at the top-right corner
+reset to XY plan parellel to screen
+bounding box
+zoom to fit
+Add points in rotated state - currently points are added always in XY plane
+Improve rotation - rotation around screen center
+Selection and dragging of control points in rotated state - now it is dragged in the original plane....can be moved in a plane parellel to screen
+Add provision to see standard views: XY, YZ, ISOMETRIC, custom etc
